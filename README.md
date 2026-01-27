@@ -1,15 +1,22 @@
-# Welcome to Lucian's github! 👋
-## About me
-- 🔭 I’m currently a sophomore at School of Mathematics and Statistics, Central China Normal University.
-- 🤯 I major in statistics and I'm trying to find the future of learning statistics.
-- 🌱 Aspiring to be a proficient machine learning engineer. (However, recently I'm confusing about my choice, if you have some advice please contact me)
-- 👯 Currently learning math and programming.
-- 🤔 I have a basic command of Python. And I'm fond of learning math analysis and real alalysis.
-- 💬 My research interests center on applying artificial intelligence to bioinformatics and single-cell omics. (just a beginner and I hope my scenifitic research journey will succeed)
-- ⚡ I try to utilize methods like Graph Neural Networks (GNNs) in biological networks, multi-modal dataintegration and self-supervised representation learning.
-- 📫 feel free to contact me via my email 2649173288@qq.com
-- 😄 beginner runner, as well as a big fan of middle-distance running PB:10km 40:18;half marathon 1:37:42
+# 👋Hi, I'm Lucian!
+## **Sophomore @ Central China Normal University | Statistics Major**
+I am a statistics student driven by a passion for uncovering biological insights through the lens of Artificial Intelligence. Currently, I am building a solid foundation in math and exploring the vast potential of machine learning in life sciences.
 
-I'm looking for some oppotunities of internship so as to rich my scientific research experience, helping myself in the application of master degree, as well as cultivate my interest in scientific research. 
-  
+🛠 **Tech & Math Stack**
+- 🔭 **Focusing on**: Bioinformatics & Single-cell Omics
+- 🏆 **Major Achievement**: National First Prize in the Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM).
+- 🌱 **Learning Path**: Deepening my expertise in math and refining my Python ecosystem for ML.
+
+🎯 **Current Goal**: 
+- Seeking research internships to bridge the gap between statistical theory and biological applications.
+- Actively exploring the intersection of Statistics and ML to find my unique niche
+- Aspiring to be a proficient machine learning engineer.
+
+🏃 **Beyond the Screen**
+When I'm not debugging or proving theorems, you'll find me on the track.
+- **10km PB**: 40:18
+- **Half Marathon**: 1:37:42
+Running taught me that research, like a marathon, is about persistence and pacing.
+
+📫 **Reach out**: 2649173288@qq.com | Open to internship opportunities!
 
