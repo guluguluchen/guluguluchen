@@ -1,4 +1,4 @@
-# 👋Hi, I'm Lucian!
+# 👋Hi, I'm Troy!
 ## **Sophomore @ Central China Normal University | Statistics Major**
 I am a statistics student driven by a passion for Medical AI, LLM Safety and Bioinformatics. Currently, I am building a solid foundation in math and exploring the vast potential of machine learning in life sciences and AI safety.
 
