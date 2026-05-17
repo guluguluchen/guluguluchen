@@ -19,5 +19,5 @@ When I'm not debugging, fine-tuning models or proving theorems, you'll find me o
 - **Half Marathon**: 1:37:42
 Running taught me that research, like a marathon, is about persistence and pacing.
 
-📫 **Reach out**: 2649173288@qq.com | Always open to research and internship opportunities!
+📫 **Reach out**: 2649173288@qq.com or troytu90@gmail.com| Always open to research and internship opportunities!
 
