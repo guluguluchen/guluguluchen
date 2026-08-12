@@ -1,9 +1,9 @@
 # 👋Hi, I'm Troy!
-## **Sophomore @ Central China Normal University | Statistics Major**
-I am a statistics student and currently, I am building a solid foundation in math and exploring the vast potential of machine learning.
+## **junior @ Central China Normal University | Statistics Major**
+Currently, I'm building a solid foundation in math and exploring the vast potential of artificial intelligence.
 
-🛠 **Tech & Math Stack**
-- 💻 **Tools & Languages**: Python, MATLAB, R.
+🛠 **Now**
+- 💻 **Programming Languages**: Python, R, MATLAB, Scheme, SQL.
 - 🏆 **Major Achievement**: First Prize in the Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM).
 
 🎯 **Current Goal**: 
@@ -12,9 +12,6 @@ I am a statistics student and currently, I am building a solid foundation in mat
 
 🏃 **Beyond the Screen**
 When I'm not debugging or proving theorems, you'll find me on the track.
-- **10km PB**: 40:18
-- **Half Marathon**: 1:37:42
-Running taught me that research, like a marathon, is about persistence and pacing.
 
 📫 **Reach out**: 2649173288@qq.com or troytu90@gmail.com| Always open to research and internship opportunities!
 
